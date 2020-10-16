@@ -1,0 +1,15 @@
+id:2
+gender:female
+declaredethnicGroup:white british
+age:26
+eyeColour:blue
+hairColour:brown
+expression:neutral
+beardDescriptor:none
+moustacheDescriptor:none
+spectaclesFlag:0
+qualityDescriptor:none
+hairBulgeFlag:0
+capArtefactFlag:0
+cranialHoleFlag:0
+underChinHoleFlag:0

@@ -1,0 +1,15 @@
+id:25
+gender:female
+declaredethnicGroup:white european
+age:38
+eyeColour:brown
+hairColour:brown
+expression:smiling
+beardDescriptor:none
+moustacheDescriptor:none
+spectaclesFlag:0
+qualityDescriptor:small hole cranium top left, hair bulge top
+hairBulgeFlag:1
+capArtefactFlag:0
+cranialHoleFlag:1
+underChinHoleFlag:0

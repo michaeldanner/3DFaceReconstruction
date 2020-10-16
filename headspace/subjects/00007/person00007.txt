@@ -1,0 +1,15 @@
+id:7
+gender:female
+declaredethnicGroup:white british
+age:37
+eyeColour:blue
+hairColour:brown
+expression:neutral
+beardDescriptor:none
+moustacheDescriptor:none
+spectaclesFlag:0
+qualityDescriptor:Floating artefact above left ear
+hairBulgeFlag:0
+capArtefactFlag:0
+cranialHoleFlag:0
+underChinHoleFlag:0

@@ -1,0 +1,15 @@
+id:33
+gender:female
+declaredethnicGroup:white irish
+age:51
+eyeColour:blue
+hairColour:blonde
+expression:neutral
+beardDescriptor:none
+moustacheDescriptor:none
+spectaclesFlag:0
+qualityDescriptor:large hole top front cranium
+hairBulgeFlag:0
+capArtefactFlag:0
+cranialHoleFlag:1
+underChinHoleFlag:0

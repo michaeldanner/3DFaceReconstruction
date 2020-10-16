@@ -1,0 +1,15 @@
+id:14
+gender:female
+declaredethnicGroup:chinese
+age:26
+eyeColour:brown
+hairColour:black
+expression:neutral
+beardDescriptor:none
+moustacheDescriptor:none
+spectaclesFlag:0
+qualityDescriptor:none
+hairBulgeFlag:0
+capArtefactFlag:0
+cranialHoleFlag:0
+underChinHoleFlag:0

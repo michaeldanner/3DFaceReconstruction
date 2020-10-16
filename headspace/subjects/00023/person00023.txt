@@ -1,0 +1,15 @@
+id:23
+gender:male
+declaredethnicGroup:white british
+age:25
+eyeColour:blue
+hairColour:brown
+expression:smiling
+beardDescriptor:none
+moustacheDescriptor:none
+spectaclesFlag:0
+qualityDescriptor:hole under chin
+hairBulgeFlag:0
+capArtefactFlag:0
+cranialHoleFlag:0
+underChinHoleFlag:1

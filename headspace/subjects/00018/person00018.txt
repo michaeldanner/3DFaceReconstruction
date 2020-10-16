@@ -1,0 +1,15 @@
+id:18
+gender:female
+declaredethnicGroup:black british
+age:35
+eyeColour:brown
+hairColour:brown
+expression:neutral
+beardDescriptor:none
+moustacheDescriptor:none
+spectaclesFlag:0
+qualityDescriptor:hair bulge central cranium
+hairBulgeFlag:1
+capArtefactFlag:0
+cranialHoleFlag:0
+underChinHoleFlag:0
