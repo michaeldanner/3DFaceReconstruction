@@ -8,8 +8,8 @@ This Python program visualizes `.vti` files using PyVista. It supports optional 
 1. **Clone the repository:**
 
    ```sh
-   git clone https://github.com/yourusername/vti-visualizer.git
-   cd vti-visualizer
+   git clone https://github.com/yourusername/vti-viewer.git
+   cd vti-viewer
    ```
 
 2. **Install dependencies:**
@@ -29,7 +29,7 @@ Run the program from the command line, providing the path to your `.vti` file as
 To visualize a `.vti` file without thresholding:
 
 ```sh
-python visualize_vti.py path/to/your/file.vti
+python vti_view.py path/to/your/file.vti
 ```
 
 ### Thresholding
@@ -37,7 +37,7 @@ python visualize_vti.py path/to/your/file.vti
 To visualize a `.vti` file with a threshold:
 
 ```sh
-python visualize_vti.py path/to/your/file.vti --threshold 100
+python vti_view.py path/to/your/file.vti --threshold 100
 ```
 
 ### Parameters
@@ -50,7 +50,7 @@ python visualize_vti.py path/to/your/file.vti --threshold 100
 Visualize a `.vti` file located at `data/sample.vti` with a threshold value of `150`:
 
 ```sh
-python visualize_vti.py data/sample.vti --threshold 150
+python vti_view.py data/sample.vti --threshold 150
 ```
 
 ## Contributing
