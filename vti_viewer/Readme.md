@@ -8,8 +8,8 @@ This Python program visualizes `.vti` files using PyVista. It supports optional 
 1. **Clone the repository:**
 
    ```sh
-   git clone https://github.com/yourusername/vti-viewer.git
-   cd vti-viewer
+   git clone https://github.com/michaeldanner/3DFaceReconstruction
+   cd vti_viewer
    ```
 
 2. **Install dependencies:**
@@ -44,6 +44,7 @@ python vti_view.py path/to/your/file.vti --threshold 100
 
 - `filename`: Path to the `.vti` file to visualize.
 - `--threshold`: (Optional) Scalar value for thresholding the visualization.
+- `--output`: (Optional) Path to the `.obj` file to export.
 
 ## Example
 
@@ -52,6 +53,13 @@ Visualize a `.vti` file located at `data/sample.vti` with a threshold value of `
 ```sh
 python vti_view.py data/sample.vti --threshold 150
 ```
+
+Export a `.obj` file located at `out/sample.obj` with a threshold value of `0.09`:
+
+```sh
+python vti_view.py data/sample.vti --threshold 0.09 --output out/sample
+```
+
 
 ## Contributing
 
